@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SEA,6.2,1,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,1,Seattle,Seahawks,3,11,69,27:16,2610,23,21,0,sr:competitor:4430,425,2
+2,NO,5.3,2,0d855753-ea21-4953-89f9-0e20aff9eb73,1,New Orleans,Saints,5,37,69,32:44,2603,6,33,0,sr:competitor:4425,367,1

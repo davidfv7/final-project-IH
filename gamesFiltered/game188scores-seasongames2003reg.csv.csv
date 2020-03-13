@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,NYJ,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,New York,Jets,24,2463,1,sr:competitor:4427,home,2,1,5.8,0.0,0.0,3.0,17.0,55.0,31:18,2463.0,30.0,30.0,0.0,sr:competitor:4427,320.0,2.0
+1,1,TEN,d26a1ca5-722d-4274-8f97-c92e49c96315,Tennessee,Titans,17,2472,0,sr:competitor:367364,away,3,2,5.8,2.0,0.0,5.0,36.0,60.0,28:42,2472.0,39.0,23.0,0.0,sr:competitor:367364,347.0,2.0

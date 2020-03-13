@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TEN,4.8,1,d26a1ca5-722d-4274-8f97-c92e49c96315,0,Tennessee,Titans,4,35,64,27:22,2506,41,22,0,sr:competitor:367364,305,4
+2,HOU,5.3,2,82d2d380-3834-4938-835f-aec541e5ece7,1,Houston,Texans,4,19,65,32:38,2487,42,37,0,sr:competitor:4324,345,2

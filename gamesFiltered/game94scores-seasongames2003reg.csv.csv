@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,CLE,d5a2eb42-8065-4174-ab79-0a6fa820e35e,Cleveland,Browns,20,2448,0,sr:competitor:4417,home,3,1,4.0,1.0,0.0,7.0,76.0,69.0,31:11,2448.0,6.0,22.0,0.0,sr:competitor:4417,277.0,2.0
+1,1,SD,9dbb9060-ba0f-4920-829e-16d4d9246b5d,San Diego,Chargers,26,2467,0,,away,3,2,5.2,2.0,1.0,12.0,93.0,56.0,28:49,2467.0,114.0,36.0,0.0,,289.0,2.0

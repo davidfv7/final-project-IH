@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,SF,f0e724b0-4cbf-495a-be47-013907608da9,San Francisco,49ers,10,2543,0,sr:competitor:4389,home,3,1,4.7,2.0,1.0,6.0,44.0,47.0,25:15,2543.0,3.0,20.0,0.0,sr:competitor:4389,220.0,4.0
+1,1,ARI,de760528-1dc0-416a-a978-b510d20692ff,Arizona,Cardinals,17,2515,0,sr:competitor:4412,away,3,2,5.8,0.0,0.0,11.0,80.0,70.0,34:45,2515.0,48.0,23.0,0.0,sr:competitor:4412,404.0,2.0

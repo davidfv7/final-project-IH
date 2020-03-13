@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CIN,2.9,0,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,0,Cincinnati,Bengals,3,19,72,31:27,2481,77,29,0,sr:competitor:4416,210,1
+2,MIA,3.7,4,4809ecb0-abd3-451d-9c4a-92a90b83ca06,1,Miami,Dolphins,8,69,61,28:33,2491,75,20,0,sr:competitor:4287,226,3

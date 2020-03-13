@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,GB,6.0,0,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,10,65,64,33:39,2560,53,39,0,sr:competitor:4420,383,0
+2,ARI,3.4,1,de760528-1dc0-416a-a978-b510d20692ff,0,Arizona,Cardinals,9,68,64,26:21,2549,23,25,0,sr:competitor:4412,218,1

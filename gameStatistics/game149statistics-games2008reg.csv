@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CIN,3.4,3,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,1,Cincinnati,Bengals,4,35,82,41:44,2619,110,30,0,sr:competitor:4416,282,1
+2,PHI,5.0,1,386bdbf9-9eea-4869-bb9a-274b0bc66e80,1,Philadelphia,Eagles,8,60,78,33:16,2636,43,18,0,sr:competitor:4428,391,4

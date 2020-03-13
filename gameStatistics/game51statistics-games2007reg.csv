@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CIN,5.5,0,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,0,Cincinnati,Bengals,8,65,51,22:36,2589,2,15,0,sr:competitor:4416,283,2
+2,NE,6.1,0,97354895-8c77-4fd4-a860-32e62ea7382a,0,New England,Patriots,3,20,66,37:24,2601,17,34,0,sr:competitor:4424,404,1

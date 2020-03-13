@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SF,6.0,4,f0e724b0-4cbf-495a-be47-013907608da9,1,San Francisco,49ers,9,80,76,39:08,153,41,28,0,sr:competitor:4389,456,1
+2,CHI,2.1,0,7b112545-38e6-483c-a55c-96cf6ee49cb8,0,Chicago,Bears,4,30,49,20:52,132,39,18,0,sr:competitor:4391,104,1

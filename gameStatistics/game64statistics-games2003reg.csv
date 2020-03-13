@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TB,6.3,0,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,0,Tampa Bay,Buccaneers,11,111,72,38:18,2471,57,33,0,sr:competitor:4388,457,1
+2,IND,6.5,1,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,1,Indianapolis,Colts,11,80,70,32:48,2454,24,22,0,sr:competitor:4421,455,2

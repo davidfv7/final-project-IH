@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,JAC,5.7,1,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,1,Jacksonville,Jaguars,7,47,62,31:39,2455,57,38,0,sr:competitor:4386,353,2
+2,IND,6.0,1,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,0,Indianapolis,Colts,7,38,66,28:21,2454,24,21,0,sr:competitor:4421,394,2

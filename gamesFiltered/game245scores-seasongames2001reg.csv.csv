@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,TB,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,Tampa Bay,Buccaneers,13,191,0,sr:competitor:4388,home,3,1,3.9,2.0,1.0,1.0,10.0,60.0,32:42,191.0,6.0,25.0,0.0,sr:competitor:4388,236.0,2.0
+1,1,PHI,386bdbf9-9eea-4869-bb9a-274b0bc66e80,Philadelphia,Eagles,17,185,2,sr:competitor:4428,away,1,2,5.5,0.0,0.0,11.0,95.0,54.0,27:18,185.0,30.0,25.0,0.0,sr:competitor:4428,296.0,2.0

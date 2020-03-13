@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CIN,4.8,0,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,0,Cincinnati,Bengals,5,55,71,34:32,2555,24,30,0,sr:competitor:4416,342,0
+2,CAR,5.2,0,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,0,Carolina,Panthers,8,41,53,25:28,2553,15,16,0,sr:competitor:4415,277,1

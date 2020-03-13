@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,OAK,5.8,0,1c1cec48-6352-4556-b789-35304c1a6ae1,0,Oakland,Raiders,7,60,71,38:24,148,73,39,0,sr:competitor:4390,409,0
+2,CAR,5.8,3,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,3,Carolina,Panthers,5,70,51,21:36,131,0,12,0,sr:competitor:4415,297,4

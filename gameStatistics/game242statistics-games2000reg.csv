@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ATL,4.2,1,e6aa13a4-0055-48a9-bc41-be28dc106929,0,Atlanta,Falcons,4,30,68,41:18,128,63,36,0,sr:competitor:4393,288,0
+2,KC,5.4,2,6680d28d-d4d2-49f6-aace-5292d3ec02c2,1,Kansas City,Chiefs,5,25,48,18:42,141,10,12,0,sr:competitor:4422,259,1

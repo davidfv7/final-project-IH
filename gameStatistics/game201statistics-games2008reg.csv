@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CAR,8.0,0,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,0,Carolina,Panthers,4,26,58,29:32,2644,21,37,0,sr:competitor:4415,464,2
+2,TB,5.7,1,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,0,Tampa Bay,Buccaneers,5,34,67,30:28,2642,8,24,0,sr:competitor:4388,384,0

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,PHI,4.9,1,386bdbf9-9eea-4869-bb9a-274b0bc66e80,0,Philadelphia,Eagles,6,34,53,21:18,149,6,17,0,sr:competitor:4428,262,0
+2,TEN,4.3,1,d26a1ca5-722d-4274-8f97-c92e49c96315,1,Tennessee,Titans,1,5,77,38:42,156,28,36,0,sr:competitor:367364,331,1

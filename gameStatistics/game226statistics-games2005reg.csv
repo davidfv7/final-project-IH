@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,HOU,6.0,1,82d2d380-3834-4938-835f-aec541e5ece7,0,Houston,Texans,7,40,62,27:42,2527,8,29,0,sr:competitor:4324,370,1
+2,JAC,6.7,2,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,0,Jacksonville,Jaguars,6,50,67,32:18,2529,14,33,0,sr:competitor:4386,448,0

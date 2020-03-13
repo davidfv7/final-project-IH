@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BUF,4.3,4,768c92aa-75ff-4a43-bcc0-f2798c2e1724,1,Buffalo,Bills,6,45,57,25:55,2586,25,28,0,sr:competitor:4376,244,4
+2,NYG,6.0,5,04aa1c9d-66da-489d-b16a-1dee3f2eec4d,2,New York,Giants,4,25,64,34:05,2604,94,47,0,sr:competitor:4426,383,4

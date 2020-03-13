@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BUF,6.3,1,768c92aa-75ff-4a43-bcc0-f2798c2e1724,0,Buffalo,Bills,7,43,76,31:32,1089,20,18,0,sr:competitor:4376,479,3
+2,OAK,7.5,1,1c1cec48-6352-4556-b789-35304c1a6ae1,0,Oakland,Raiders,10,120,66,28:28,1108,116,27,0,sr:competitor:4390,495,0

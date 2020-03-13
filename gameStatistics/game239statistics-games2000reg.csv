@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,3.6,1,9dbb9060-ba0f-4920-829e-16d4d9246b5d,1,San Diego,Chargers,8,82,47,20:39,151,102,12,0,,171,2
+2,PIT,4.2,1,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,0,Pittsburgh,Steelers,1,10,76,39:21,150,98,41,0,sr:competitor:4345,316,2

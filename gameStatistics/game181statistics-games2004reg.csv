@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TB,4.5,1,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,0,Tampa Bay,Buccaneers,3,32,55,29:32,2505,102,31,0,sr:competitor:4388,247,1
+2,ATL,4.0,2,e6aa13a4-0055-48a9-bc41-be28dc106929,2,Atlanta,Falcons,7,50,63,30:28,2476,46,28,0,sr:competitor:4393,255,5

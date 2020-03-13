@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ATL,5.5,1,e6aa13a4-0055-48a9-bc41-be28dc106929,0,Atlanta,Falcons,4,35,62,31:22,2442,0,39,0,sr:competitor:4393,344,1
+2,JAC,5.2,1,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,1,Jacksonville,Jaguars,9,48,61,28:38,2455,51,28,0,sr:competitor:4386,320,1

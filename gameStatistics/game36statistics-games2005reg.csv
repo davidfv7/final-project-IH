@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,PHI,6.3,1,386bdbf9-9eea-4869-bb9a-274b0bc66e80,1,Philadelphia,Eagles,10,81,71,30:03,2539,17,18,0,sr:competitor:4428,448,2
+2,OAK,5.6,2,1c1cec48-6352-4556-b789-35304c1a6ae1,0,Oakland,Raiders,13,94,65,29:57,2538,20,22,0,sr:competitor:4390,365,0

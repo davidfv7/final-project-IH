@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,OAK,2.3,2,1c1cec48-6352-4556-b789-35304c1a6ae1,1,Oakland,Raiders,7,55,34,14:45,2628,0,11,0,sr:competitor:4390,77,2
+2,ATL,5.5,1,e6aa13a4-0055-48a9-bc41-be28dc106929,1,Atlanta,Falcons,4,40,82,45:15,2616,13,57,0,sr:competitor:4393,453,1

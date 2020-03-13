@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,GB,a20471b4-a8d9-40c7-95ad-90cc30e46932,Green Bay,Packers,31,2452,2,sr:competitor:4420,home,1,1,6.3,0.0,0.0,4.0,29.0,58.0,29:12,2452.0,75.0,34.0,0.0,sr:competitor:4420,366.0,1.0
+1,1,DEN,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,Denver,Broncos,3,2450,2,sr:competitor:4418,away,1,2,3.5,1.0,1.0,4.0,30.0,61.0,30:48,2450.0,37.0,34.0,0.0,sr:competitor:4418,216.0,3.0

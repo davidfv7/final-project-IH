@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SF,6.4,2,f0e724b0-4cbf-495a-be47-013907608da9,1,San Francisco,49ers,8,67,61,27:55,2543,44,25,0,sr:competitor:4389,390,3
+2,DAL,6.2,2,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,1,Dallas,Cowboys,6,45,72,32:05,2523,15,32,0,sr:competitor:4392,443,3

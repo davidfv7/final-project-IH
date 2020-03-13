@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BAL,6.3,1,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,1,Baltimore,Ravens,13,100,60,32:54,2585,67,37,0,sr:competitor:4413,376,2
+2,NE,5.0,0,97354895-8c77-4fd4-a860-32e62ea7382a,0,New England,Patriots,4,30,65,27:06,2601,43,24,0,sr:competitor:4424,326,1

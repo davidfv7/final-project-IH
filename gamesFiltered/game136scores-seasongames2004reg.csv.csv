@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,NE,97354895-8c77-4fd4-a860-32e62ea7382a,New England,Patriots,29,2493,2,sr:competitor:4424,home,1,1,5.2,0.0,0.0,5.0,44.0,82.0,41:22,2493.0,84.0,45.0,0.0,sr:competitor:4424,428.0,1.0
+1,1,BUF,768c92aa-75ff-4a43-bcc0-f2798c2e1724,Buffalo,Bills,6,2478,1,sr:competitor:4376,away,2,2,3.0,1.0,1.0,2.0,48.0,41.0,18:38,2478.0,105.0,17.0,0.0,sr:competitor:4376,125.0,5.0

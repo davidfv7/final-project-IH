@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CIN,6.3,0,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,0,Cincinnati,Bengals,9,70,63,33:54,2589,44,41,0,sr:competitor:4416,395,1
+2,NYJ,5.8,1,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,1,New York,Jets,5,62,59,26:06,2605,0,26,0,sr:competitor:4427,342,2

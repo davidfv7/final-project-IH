@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,OAK,6.0,2,1c1cec48-6352-4556-b789-35304c1a6ae1,1,Oakland,Raiders,2,14,60,31:29,2628,92,34,0,sr:competitor:4390,362,1
+2,HOU,5.3,2,82d2d380-3834-4938-835f-aec541e5ece7,0,Houston,Texans,1,15,61,28:31,2649,30,22,0,sr:competitor:4324,324,1

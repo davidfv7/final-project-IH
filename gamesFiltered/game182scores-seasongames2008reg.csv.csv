@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,DET,c5a59daa-53a7-4de0-851f-fb12be893e9e,Detroit,Lions,10,2623,3,sr:competitor:4419,home,0,1,3.3,4.0,2.0,5.0,38.0,46.0,23:06,2623.0,-1.0,14.0,0.0,sr:competitor:4419,154.0,3.0
+1,1,TEN,d26a1ca5-722d-4274-8f97-c92e49c96315,Tennessee,Titans,47,2625,1,sr:competitor:367364,away,2,2,6.9,1.0,1.0,9.0,65.0,66.0,36:54,2625.0,64.0,46.0,0.0,sr:competitor:367364,456.0,1.0

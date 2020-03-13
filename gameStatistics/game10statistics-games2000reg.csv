@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BUF,4.0,0,768c92aa-75ff-4a43-bcc0-f2798c2e1724,0,Buffalo,Bills,6,91,66,33:11,130,18,35,0,sr:competitor:4376,266,0
+2,TEN,3.1,1,d26a1ca5-722d-4274-8f97-c92e49c96315,0,Tennessee,Titans,12,112,55,26:49,156,60,20,0,sr:competitor:367364,172,1

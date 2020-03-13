@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,3.5,2,9dbb9060-ba0f-4920-829e-16d4d9246b5d,1,San Diego,Chargers,10,78,50,23:48,2609,94,24,0,,177,3
+2,IND,4.6,0,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,0,Indianapolis,Colts,4,21,84,36:12,2596,-2,26,0,sr:competitor:4421,386,6

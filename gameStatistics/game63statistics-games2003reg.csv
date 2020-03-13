@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DAL,5.4,1,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,0,Dallas,Cowboys,7,64,68,36:28,2449,67,36,2,sr:competitor:4392,365,1
+2,ARI,3.1,0,de760528-1dc0-416a-a978-b510d20692ff,0,Arizona,Cardinals,5,36,49,23:32,2441,-2,18,0,sr:competitor:4412,151,2

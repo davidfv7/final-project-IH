@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,JAC,5.9,0,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,0,Jacksonville,Jaguars,7,69,63,32:03,2455,0,45,0,sr:competitor:4386,374,2
+2,NO,5.5,2,0d855753-ea21-4953-89f9-0e20aff9eb73,1,New Orleans,Saints,4,30,64,27:57,2461,37,25,0,sr:competitor:4425,350,1

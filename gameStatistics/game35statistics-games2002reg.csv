@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,MIA,6.0,1,4809ecb0-abd3-451d-9c4a-92a90b83ca06,0,Miami,Dolphins,7,55,66,32:52,1101,95,35,0,sr:competitor:4287,394,0
+2,NYJ,3.6,1,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,1,New York,Jets,7,55,53,27:08,1107,0,22,0,sr:competitor:4427,189,4

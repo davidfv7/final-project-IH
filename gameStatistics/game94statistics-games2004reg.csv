@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,GB,7.7,1,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,6,40,62,33:19,2486,0,31,0,sr:competitor:4420,480,0
+2,DAL,6.7,2,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,0,Dallas,Cowboys,6,37,54,26:41,2483,9,16,0,sr:competitor:4392,362,0

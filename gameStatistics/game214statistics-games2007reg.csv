@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CLE,4.9,1,d5a2eb42-8065-4174-ab79-0a6fa820e35e,0,Cleveland,Browns,2,15,62,31:47,2590,5,37,1,sr:competitor:4417,304,0
+2,BUF,3.6,1,768c92aa-75ff-4a43-bcc0-f2798c2e1724,0,Buffalo,Bills,2,15,65,28:13,2586,18,32,0,sr:competitor:4376,232,0

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DET,3.9,3,c5a59daa-53a7-4de0-851f-fb12be893e9e,0,Detroit,Lions,5,40,68,34:43,2451,52,34,0,sr:competitor:4419,266,1
+2,GB,5.6,2,a20471b4-a8d9-40c7-95ad-90cc30e46932,2,Green Bay,Packers,6,49,57,25:17,2452,5,16,0,sr:competitor:4420,320,5

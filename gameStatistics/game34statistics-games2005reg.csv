@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,GB,5.1,1,a20471b4-a8d9-40c7-95ad-90cc30e46932,1,Green Bay,Packers,8,65,51,25:38,2526,61,25,0,sr:competitor:4420,260,4
+2,TB,4.2,1,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,0,Tampa Bay,Buccaneers,8,103,69,34:22,2545,52,41,0,sr:competitor:4388,293,1

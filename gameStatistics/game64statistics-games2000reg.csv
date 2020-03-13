@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CAR,4.6,5,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,2,Carolina,Panthers,5,55,59,27:49,131,30,29,0,sr:competitor:4415,272,2
+2,DAL,4.6,0,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,0,Dallas,Cowboys,4,45,63,36:03,135,-3,38,1,sr:competitor:4392,291,2

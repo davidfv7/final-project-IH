@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,HOU,3.7,1,82d2d380-3834-4938-835f-aec541e5ece7,1,Houston,Texans,7,58,59,30:54,2527,6,25,0,sr:competitor:4324,221,1
+2,PIT,7.2,0,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,0,Pittsburgh,Steelers,5,40,54,29:06,2540,10,32,0,sr:competitor:4345,388,0

@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,PHI,386bdbf9-9eea-4869-bb9a-274b0bc66e80,Philadelphia,Eagles,38,2636,3,sr:competitor:4428,home,0,1,7.4,1.0,0.0,4.0,41.0,71.0,35:10,2636.0,97.0,32.0,0.0,sr:competitor:4428,522.0,0.0
+1,1,STL,39f349de-6463-4803-ad70-f1e0f144f5ed,St. Louis,Rams,3,2629,2,,away,1,2,3.7,1.0,0.0,9.0,66.0,45.0,24:50,2629.0,-2.0,15.0,0.0,,166.0,0.0

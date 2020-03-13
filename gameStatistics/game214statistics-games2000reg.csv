@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SF,6.5,1,f0e724b0-4cbf-495a-be47-013907608da9,1,San Francisco,49ers,2,15,61,27:14,153,30,21,0,sr:competitor:4389,398,3
+2,NO,5.4,1,0d855753-ea21-4953-89f9-0e20aff9eb73,0,New Orleans,Saints,1,5,72,32:46,145,33,38,0,sr:competitor:4425,388,0

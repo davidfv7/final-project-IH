@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BUF,4.9,3,768c92aa-75ff-4a43-bcc0-f2798c2e1724,2,Buffalo,Bills,12,108,54,24:57,2478,49,21,0,sr:competitor:4376,267,3
+2,PIT,3.7,2,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,1,Pittsburgh,Steelers,7,40,70,35:03,2500,32,43,0,sr:competitor:4345,262,3

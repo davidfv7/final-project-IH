@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TEN,3.3,1,d26a1ca5-722d-4274-8f97-c92e49c96315,0,Tennessee,Titans,3,16,47,20:36,2506,25,14,0,sr:competitor:367364,153,2
+2,DEN,6.9,1,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,1,Denver,Broncos,2,45,72,39:24,2484,31,46,0,sr:competitor:4418,496,2

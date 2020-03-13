@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,PHI,7.2,2,386bdbf9-9eea-4869-bb9a-274b0bc66e80,1,Philadelphia,Eagles,8,58,61,29:05,185,32,30,0,sr:competitor:4428,440,2
+2,ARI,5.4,3,de760528-1dc0-416a-a978-b510d20692ff,0,Arizona,Cardinals,5,40,61,30:55,162,49,28,0,sr:competitor:4412,329,1

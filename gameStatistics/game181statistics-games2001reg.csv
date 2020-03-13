@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ATL,3.7,3,e6aa13a4-0055-48a9-bc41-be28dc106929,1,Atlanta,Falcons,10,83,62,33:21,163,8,21,0,sr:competitor:4393,230,2
+2,NO,6.9,2,0d855753-ea21-4953-89f9-0e20aff9eb73,2,New Orleans,Saints,10,67,55,26:39,181,41,21,0,sr:competitor:4425,379,2

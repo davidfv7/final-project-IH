@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BUF,5.3,1,768c92aa-75ff-4a43-bcc0-f2798c2e1724,0,Buffalo,Bills,5,59,62,25:42,1089,0,13,0,sr:competitor:4376,331,1
+2,NE,6.7,0,97354895-8c77-4fd4-a860-32e62ea7382a,0,New England,Patriots,8,59,63,34:18,1103,47,36,0,sr:competitor:4424,422,0

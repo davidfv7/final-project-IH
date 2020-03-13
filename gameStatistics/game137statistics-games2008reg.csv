@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CHI,3.9,0,7b112545-38e6-483c-a55c-96cf6ee49cb8,0,Chicago,Bears,3,20,63,26:44,2618,13,24,0,sr:competitor:4391,243,1
+2,TEN,4.3,2,d26a1ca5-722d-4274-8f97-c92e49c96315,1,Tennessee,Titans,8,55,71,33:16,2625,56,29,0,sr:competitor:367364,304,1

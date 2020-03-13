@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DEN,5.6,1,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,1,Denver,Broncos,6,55,60,29:13,2622,51,26,0,sr:competitor:4418,333,1
+2,TB,5.0,0,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,0,Tampa Bay,Buccaneers,5,30,61,30:47,2642,19,22,0,sr:competitor:4388,307,1

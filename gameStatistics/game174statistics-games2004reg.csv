@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CIN,8.3,0,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,0,Cincinnati,Bengals,8,63,61,31:19,2481,104,32,0,sr:competitor:4416,504,3
+2,CLE,7.8,3,d5a2eb42-8065-4174-ab79-0a6fa820e35e,0,Cleveland,Browns,12,87,59,28:41,2482,98,17,0,sr:competitor:4417,462,2

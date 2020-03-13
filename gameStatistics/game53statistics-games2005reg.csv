@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NO,4.9,0,0d855753-ea21-4953-89f9-0e20aff9eb73,0,New Orleans,Saints,4,26,68,36:20,2535,64,41,0,sr:competitor:4425,333,0
+2,BUF,4.3,3,768c92aa-75ff-4a43-bcc0-f2798c2e1724,1,Buffalo,Bills,12,79,48,23:40,2518,8,23,0,sr:competitor:4376,208,2

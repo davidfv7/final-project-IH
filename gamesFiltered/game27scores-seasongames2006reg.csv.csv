@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,NYJ,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,New York,Jets,17,2571,0,sr:competitor:4427,home,3,1,5.2,0.0,0.0,4.0,48.0,65.0,29:44,2571.0,6.0,24.0,0.0,sr:competitor:4427,338.0,1.0
+1,1,NE,97354895-8c77-4fd4-a860-32e62ea7382a,New England,Patriots,24,2567,0,sr:competitor:4424,away,3,2,5.2,1.0,1.0,6.0,64.0,69.0,30:16,2567.0,14.0,39.0,0.0,sr:competitor:4424,358.0,2.0

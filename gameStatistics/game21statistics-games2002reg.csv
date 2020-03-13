@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DAL,5.8,0,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,0,Dallas,Cowboys,2,15,51,24:15,1094,70,26,0,sr:competitor:4392,297,0
+2,TEN,4.6,1,d26a1ca5-722d-4274-8f97-c92e49c96315,0,Tennessee,Titans,5,40,72,35:45,1116,16,26,0,sr:competitor:367364,333,1

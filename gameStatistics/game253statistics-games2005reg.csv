@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,3.8,3,9dbb9060-ba0f-4920-829e-16d4d9246b5d,1,San Diego,Chargers,8,70,62,26:38,2541,42,20,0,,236,2
+2,DEN,3.8,1,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,0,Denver,Broncos,4,22,64,33:22,2524,65,40,1,sr:competitor:4418,241,0

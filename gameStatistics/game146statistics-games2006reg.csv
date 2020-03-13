@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BAL,4.9,1,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,1,Baltimore,Ravens,7,56,67,36:43,2551,121,31,0,sr:competitor:4413,328,1
+2,ATL,3.6,0,e6aa13a4-0055-48a9-bc41-be28dc106929,0,Atlanta,Falcons,4,47,51,23:17,2550,46,25,0,sr:competitor:4393,186,0

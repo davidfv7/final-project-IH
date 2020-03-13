@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NE,3.5,2,97354895-8c77-4fd4-a860-32e62ea7382a,1,New England,Patriots,4,30,62,25:38,1103,26,23,0,sr:competitor:4424,216,2
+2,NYJ,6.0,2,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,0,New York,Jets,7,60,65,34:22,1107,70,31,0,sr:competitor:4427,393,0

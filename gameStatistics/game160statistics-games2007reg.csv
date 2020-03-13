@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CAR,3.5,2,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,1,Carolina,Panthers,5,35,55,20:37,2587,12,18,0,sr:competitor:4415,195,4
+2,NO,5.0,0,0d855753-ea21-4953-89f9-0e20aff9eb73,0,New Orleans,Saints,5,76,75,39:23,2603,8,39,0,sr:competitor:4425,373,1

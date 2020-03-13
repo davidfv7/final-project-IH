@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,WAS,5.7,5,22052ff7-c065-42ee-bc8f-c4691c50e624,1,Washington,Redskins,4,50,64,34:35,2615,169,35,1,sr:competitor:4432,366,1
+2,DET,2.7,4,c5a59daa-53a7-4de0-851f-fb12be893e9e,0,Detroit,Lions,4,20,54,25:25,2593,0,19,0,sr:competitor:4419,144,2

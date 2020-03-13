@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DEN,4.7,1,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,0,Denver,Broncos,3,15,73,31:41,1095,0,22,0,sr:competitor:4418,342,1
+2,OAK,7.1,0,1c1cec48-6352-4556-b789-35304c1a6ae1,0,Oakland,Raiders,5,35,53,28:19,1108,98,14,0,sr:competitor:4390,374,0

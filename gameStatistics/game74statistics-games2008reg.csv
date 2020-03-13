@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,7.3,1,9dbb9060-ba0f-4920-829e-16d4d9246b5d,1,San Diego,Chargers,3,20,55,28:26,2639,52,28,0,,404,1
+2,NE,4.4,2,97354895-8c77-4fd4-a860-32e62ea7382a,0,New England,Patriots,6,73,68,31:34,2632,0,26,0,sr:competitor:4424,299,1

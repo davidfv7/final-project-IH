@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DAL,4.1,2,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,2,Dallas,Cowboys,10,81,52,26:20,170,17,23,0,sr:competitor:4392,213,4
+2,PHI,3.4,0,386bdbf9-9eea-4869-bb9a-274b0bc66e80,0,Philadelphia,Eagles,3,22,67,33:40,185,121,35,0,sr:competitor:4428,227,1

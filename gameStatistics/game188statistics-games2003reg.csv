@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NYJ,5.8,0,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,0,New York,Jets,3,17,55,31:18,2463,30,30,0,sr:competitor:4427,320,2
+2,TEN,5.8,2,d26a1ca5-722d-4274-8f97-c92e49c96315,0,Tennessee,Titans,5,36,60,28:42,2472,39,23,0,sr:competitor:367364,347,2

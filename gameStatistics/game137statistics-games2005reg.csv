@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,JAC,5.1,0,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,0,Jacksonville,Jaguars,5,42,66,34:29,2529,90,35,0,sr:competitor:4386,338,0
+2,BAL,3.0,0,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,0,Baltimore,Ravens,9,86,54,25:31,2517,46,17,0,sr:competitor:4413,163,3

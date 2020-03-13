@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CHI,3.7,1,7b112545-38e6-483c-a55c-96cf6ee49cb8,1,Chicago,Bears,4,36,60,22:39,2480,-3,13,0,sr:competitor:4391,224,1
+2,PHI,5.2,0,386bdbf9-9eea-4869-bb9a-274b0bc66e80,0,Philadelphia,Eagles,10,73,73,37:21,2499,19,32,0,sr:competitor:4428,376,1

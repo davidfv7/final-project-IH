@@ -1,0 +1,3 @@
+,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts
+0,DEN,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,Denver,Broncos,20,1095,2,sr:competitor:4418,home,0
+1,IND,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,Indianapolis,Colts,23,1098,1,sr:competitor:4421,away,1

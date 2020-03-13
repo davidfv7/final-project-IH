@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TEN,4.6,0,d26a1ca5-722d-4274-8f97-c92e49c96315,0,Tennessee,Titans,2,15,75,31:21,2625,13,36,0,sr:competitor:367364,347,0
+2,GB,5.7,1,a20471b4-a8d9-40c7-95ad-90cc30e46932,1,Green Bay,Packers,4,41,69,34:03,2624,27,24,0,sr:competitor:4420,390,2

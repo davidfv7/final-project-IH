@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,JAC,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,Jacksonville,Jaguars,37,2597,3,sr:competitor:4386,home,0,1,5.7,2.0,1.0,6.0,40.0,75.0,38:58,2597.0,99.0,38.0,0.0,sr:competitor:4386,427.0,1.0
+1,1,CAR,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,Carolina,Panthers,6,2587,0,sr:competitor:4415,away,3,2,2.8,1.0,1.0,5.0,50.0,54.0,21:02,2587.0,0.0,15.0,0.0,sr:competitor:4415,149.0,2.0

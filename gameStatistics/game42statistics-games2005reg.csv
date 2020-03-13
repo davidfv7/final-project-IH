@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,IND,6.1,1,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,0,Indianapolis,Colts,3,15,56,31:38,2528,10,33,0,sr:competitor:4421,339,1
+2,CLE,4.7,1,d5a2eb42-8065-4174-ab79-0a6fa820e35e,0,Cleveland,Browns,7,62,56,28:22,2522,12,23,0,sr:competitor:4417,263,0

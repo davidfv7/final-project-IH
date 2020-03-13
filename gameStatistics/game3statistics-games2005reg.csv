@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,JAC,5.5,1,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,0,Jacksonville,Jaguars,6,31,66,34:11,2529,53,31,0,sr:competitor:4386,362,0
+2,SEA,5.6,3,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,3,Seattle,Seahawks,5,29,58,25:49,2542,5,19,0,sr:competitor:4430,322,5

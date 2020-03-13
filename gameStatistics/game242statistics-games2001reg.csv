@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,PIT,6.1,4,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,0,Pittsburgh,Steelers,7,42,62,34:44,186,22,36,0,sr:competitor:4345,376,3
+2,CLE,3.5,1,d5a2eb42-8065-4174-ab79-0a6fa820e35e,1,Cleveland,Browns,6,70,49,25:16,169,35,19,0,sr:competitor:4417,173,3

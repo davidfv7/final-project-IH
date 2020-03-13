@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CAR,4.6,1,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,0,Carolina,Panthers,6,35,57,33:51,1090,54,36,0,sr:competitor:4415,265,0
+2,BAL,5.3,0,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,0,Baltimore,Ravens,6,45,55,26:09,1088,13,19,0,sr:competitor:4413,289,1

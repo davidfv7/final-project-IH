@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BAL,4.1,1,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,1,Baltimore,Ravens,3,25,59,27:50,2477,139,28,0,sr:competitor:4413,240,1
+2,CLE,3.8,3,d5a2eb42-8065-4174-ab79-0a6fa820e35e,1,Cleveland,Browns,9,55,57,32:10,2482,24,28,0,sr:competitor:4417,217,2

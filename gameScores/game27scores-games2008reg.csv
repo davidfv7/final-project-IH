@@ -1,0 +1,3 @@
+,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts
+0,DET,c5a59daa-53a7-4de0-851f-fb12be893e9e,Detroit,Lions,25,2623,2,sr:competitor:4419,home,1
+1,GB,a20471b4-a8d9-40c7-95ad-90cc30e46932,Green Bay,Packers,48,2624,3,sr:competitor:4420,away,0

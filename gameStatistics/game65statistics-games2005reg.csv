@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DEN,4.8,0,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,0,Denver,Broncos,6,43,54,26:11,2524,0,28,0,sr:competitor:4418,257,0
+2,WAS,5.7,1,22052ff7-c065-42ee-bc8f-c4691c50e624,1,Washington,Redskins,10,67,79,33:49,2547,24,26,0,sr:competitor:4432,447,1

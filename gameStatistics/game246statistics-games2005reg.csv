@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SF,4.1,1,f0e724b0-4cbf-495a-be47-013907608da9,0,San Francisco,49ers,5,32,79,44:03,2543,92,47,0,sr:competitor:4389,324,1
+2,HOU,4.7,0,82d2d380-3834-4938-835f-aec541e5ece7,0,Houston,Texans,8,74,61,27:05,2527,27,25,0,sr:competitor:4324,284,2

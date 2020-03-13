@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,KC,6.1,0,6680d28d-d4d2-49f6-aace-5292d3ec02c2,0,Kansas City,Chiefs,5,60,61,27:07,2456,28,24,0,sr:competitor:4422,375,0
+2,BUF,4.0,3,768c92aa-75ff-4a43-bcc0-f2798c2e1724,2,Buffalo,Bills,5,31,67,32:53,2444,0,26,1,sr:competitor:4376,266,7

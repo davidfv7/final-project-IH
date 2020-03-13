@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DEN,3.7,1,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,1,Denver,Broncos,4,52,62,29:42,171,32,24,0,sr:competitor:4418,228,3
+2,BAL,5.2,1,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,0,Baltimore,Ravens,7,74,64,30:18,164,14,34,0,sr:competitor:4413,333,1

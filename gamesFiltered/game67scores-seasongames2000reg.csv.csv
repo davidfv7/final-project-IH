@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,JAC,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,Jacksonville,Jaguars,13,140,0,sr:competitor:4386,home,3,1,3.0,1.0,1.0,10.0,75.0,68.0,24:50,140.0,9.0,16.0,0.0,sr:competitor:4386,206.0,2.0
+1,1,PIT,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,Pittsburgh,Steelers,24,150,2,sr:competitor:4345,away,1,2,5.4,2.0,2.0,7.0,55.0,62.0,35:10,150.0,51.0,44.0,0.0,sr:competitor:4345,332.0,3.0

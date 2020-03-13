@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,PIT,3.9,1,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,1,Pittsburgh,Steelers,5,32,65,24:38,2574,6,18,0,sr:competitor:4345,251,3
+2,BAL,5.6,1,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,1,Baltimore,Ravens,12,89,64,35:22,2551,79,33,0,sr:competitor:4413,359,3

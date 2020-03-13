@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,CAR,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,Carolina,Panthers,7,166,0,sr:competitor:4415,home,3,1,3.9,1.0,0.0,6.0,30.0,63.0,27:26,166.0,16.0,28.0,0.0,sr:competitor:4415,247.0,2.0
+1,1,ATL,e6aa13a4-0055-48a9-bc41-be28dc106929,Atlanta,Falcons,10,163,1,sr:competitor:4393,away,2,2,3.7,1.0,0.0,4.0,30.0,64.0,32:34,163.0,34.0,33.0,0.0,sr:competitor:4393,239.0,0.0

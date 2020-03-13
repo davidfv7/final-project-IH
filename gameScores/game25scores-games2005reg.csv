@@ -1,0 +1,3 @@
+,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts
+0,PHI,386bdbf9-9eea-4869-bb9a-274b0bc66e80,Philadelphia,Eagles,42,2539,1,sr:competitor:4428,home,2
+1,SF,f0e724b0-4cbf-495a-be47-013907608da9,San Francisco,49ers,3,2543,3,sr:competitor:4389,away,0

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ARI,5.7,1,de760528-1dc0-416a-a978-b510d20692ff,0,Arizona,Cardinals,4,34,59,30:43,2549,17,29,0,sr:competitor:4412,338,0
+2,DET,4.5,0,c5a59daa-53a7-4de0-851f-fb12be893e9e,0,Detroit,Lions,4,28,62,29:17,2559,46,20,0,sr:competitor:4419,281,1

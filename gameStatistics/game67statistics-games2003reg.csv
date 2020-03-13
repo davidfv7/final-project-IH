@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,GB,5.5,0,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,3,25,61,33:10,2452,19,35,0,sr:competitor:4420,336,0
+2,SEA,5.4,1,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,1,Seattle,Seahawks,7,57,64,26:50,2468,0,23,0,sr:competitor:4430,343,2

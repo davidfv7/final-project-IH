@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SF,6.3,2,f0e724b0-4cbf-495a-be47-013907608da9,2,San Francisco,49ers,13,124,75,34:45,153,13,34,0,sr:competitor:4389,472,2
+2,OAK,6.1,1,1c1cec48-6352-4556-b789-35304c1a6ae1,1,Oakland,Raiders,10,74,77,35:30,148,12,33,0,sr:competitor:4390,471,2

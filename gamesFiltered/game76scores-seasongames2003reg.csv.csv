@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,CLE,d5a2eb42-8065-4174-ab79-0a6fa820e35e,Cleveland,Browns,13,2448,1,sr:competitor:4417,home,2,1,4.7,1.0,1.0,6.0,55.0,60.0,31:38,2448.0,16.0,32.0,0.0,sr:competitor:4417,284.0,1.0
+1,1,OAK,1c1cec48-6352-4556-b789-35304c1a6ae1,Oakland,Raiders,7,2464,1,sr:competitor:4390,away,2,2,4.6,1.0,0.0,19.0,128.0,55.0,28:22,2464.0,0.0,21.0,0.0,sr:competitor:4390,254.0,0.0

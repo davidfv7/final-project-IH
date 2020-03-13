@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,HOU,5.4,3,82d2d380-3834-4938-835f-aec541e5ece7,1,Houston,Texans,7,57,48,21:33,2561,16,18,0,sr:competitor:4324,261,2
+2,WAS,7.3,1,22052ff7-c065-42ee-bc8f-c4691c50e624,1,Washington,Redskins,12,126,68,38:27,2581,4,41,0,sr:competitor:4432,495,1

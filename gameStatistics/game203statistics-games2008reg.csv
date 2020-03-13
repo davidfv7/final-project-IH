@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TEN,5.9,1,d26a1ca5-722d-4274-8f97-c92e49c96315,1,Tennessee,Titans,13,131,66,33:46,2625,80,43,0,sr:competitor:367364,390,3
+2,CLE,2.8,2,d5a2eb42-8065-4174-ab79-0a6fa820e35e,0,Cleveland,Browns,8,68,64,26:14,2646,33,19,0,sr:competitor:4417,178,1

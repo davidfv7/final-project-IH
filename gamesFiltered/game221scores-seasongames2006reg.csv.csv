@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,NE,97354895-8c77-4fd4-a860-32e62ea7382a,New England,Patriots,40,2567,1,sr:competitor:4424,home,2,1,3.5,0.0,0.0,2.0,10.0,66.0,35:53,2567.0,107.0,38.0,0.0,sr:competitor:4424,230.0,0.0
+1,1,HOU,82d2d380-3834-4938-835f-aec541e5ece7,Houston,Texans,7,2561,3,sr:competitor:4324,away,0,2,3.7,1.0,0.0,4.0,66.0,54.0,24:07,2561.0,16.0,22.0,0.0,sr:competitor:4324,198.0,4.0

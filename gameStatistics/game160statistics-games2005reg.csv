@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DET,4.6,3,c5a59daa-53a7-4de0-851f-fb12be893e9e,2,Detroit,Lions,9,50,66,25:41,2525,33,13,0,sr:competitor:4419,304,4
+2,ATL,6.0,1,e6aa13a4-0055-48a9-bc41-be28dc106929,1,Atlanta,Falcons,11,84,67,34:19,2516,107,45,0,sr:competitor:4393,402,2

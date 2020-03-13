@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CIN,4.8,8,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,3,Cincinnati,Bengals,3,15,65,29:11,133,0,41,0,sr:competitor:4416,309,3
+2,PIT,5.8,0,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,0,Pittsburgh,Steelers,4,35,64,30:49,150,5,38,0,sr:competitor:4345,372,0

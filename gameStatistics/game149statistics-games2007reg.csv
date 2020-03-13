@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CIN,5.4,2,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,1,Cincinnati,Bengals,11,79,73,32:27,2589,33,20,0,sr:competitor:4416,396,5
+2,ARI,4.5,0,de760528-1dc0-416a-a978-b510d20692ff,0,Arizona,Cardinals,11,101,55,27:33,2583,155,24,0,sr:competitor:4412,247,0

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TB,5.3,0,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,0,Tampa Bay,Buccaneers,3,20,62,33:36,155,36,36,0,sr:competitor:4388,327,0
+2,CHI,2.9,3,7b112545-38e6-483c-a55c-96cf6ee49cb8,2,Chicago,Bears,9,64,56,26:24,132,23,22,0,sr:competitor:4391,165,4

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SF,3.5,2,f0e724b0-4cbf-495a-be47-013907608da9,1,San Francisco,49ers,6,40,56,25:28,2611,43,22,0,sr:competitor:4389,194,1
+2,ARI,3.9,1,de760528-1dc0-416a-a978-b510d20692ff,0,Arizona,Cardinals,10,71,67,34:32,2583,1,38,0,sr:competitor:4412,261,2

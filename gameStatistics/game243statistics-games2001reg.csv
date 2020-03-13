@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,STL,7.5,2,39f349de-6463-4803-ad70-f1e0f144f5ed,0,St. Louis,Rams,1,10,61,35:07,190,51,29,0,,458,3
+2,ATL,4.6,2,e6aa13a4-0055-48a9-bc41-be28dc106929,2,Atlanta,Falcons,6,35,56,24:53,163,27,21,0,sr:competitor:4393,255,3

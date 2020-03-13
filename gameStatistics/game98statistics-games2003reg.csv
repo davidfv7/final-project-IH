@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SF,6.5,1,f0e724b0-4cbf-495a-be47-013907608da9,1,San Francisco,49ers,5,35,71,33:08,2469,66,41,0,sr:competitor:4389,458,2
+2,TB,5.7,3,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,1,Tampa Bay,Buccaneers,6,74,57,26:52,2471,23,14,0,sr:competitor:4388,326,4

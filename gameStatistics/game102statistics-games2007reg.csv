@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,OAK,4.8,2,1c1cec48-6352-4556-b789-35304c1a6ae1,1,Oakland,Raiders,5,30,56,28:09,2606,27,24,0,sr:competitor:4390,268,2
+2,KC,4.4,0,6680d28d-d4d2-49f6-aace-5292d3ec02c2,0,Kansas City,Chiefs,4,25,66,31:51,2598,89,32,0,sr:competitor:4422,290,1

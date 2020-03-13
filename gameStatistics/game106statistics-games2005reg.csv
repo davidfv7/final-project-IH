@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,6.4,2,9dbb9060-ba0f-4920-829e-16d4d9246b5d,1,San Diego,Chargers,4,38,66,28:41,2541,29,22,0,,424,2
+2,KC,6.1,1,6680d28d-d4d2-49f6-aace-5292d3ec02c2,1,Kansas City,Chiefs,9,59,68,31:19,2530,105,21,0,sr:competitor:4422,418,1

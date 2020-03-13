@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SF,7.2,1,f0e724b0-4cbf-495a-be47-013907608da9,0,San Francisco,49ers,4,20,59,30:27,2469,53,32,0,sr:competitor:4389,423,0
+2,PIT,5.2,2,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,1,Pittsburgh,Steelers,3,30,67,29:33,2466,0,20,0,sr:competitor:4345,349,2

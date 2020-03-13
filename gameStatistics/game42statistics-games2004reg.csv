@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,STL,5.8,1,39f349de-6463-4803-ad70-f1e0f144f5ed,1,St. Louis,Rams,12,85,69,33:37,2504,0,15,0,,403,1
+2,NO,6.2,0,0d855753-ea21-4953-89f9-0e20aff9eb73,0,New Orleans,Saints,5,25,74,33:27,2495,66,32,0,sr:competitor:4425,462,0

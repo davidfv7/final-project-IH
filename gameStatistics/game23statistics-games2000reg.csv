@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BUF,4.8,0,768c92aa-75ff-4a43-bcc0-f2798c2e1724,0,Buffalo,Bills,5,33,65,33:23,130,3,34,0,sr:competitor:4376,309,1
+2,GB,5.0,4,a20471b4-a8d9-40c7-95ad-90cc30e46932,3,Green Bay,Packers,2,12,55,26:37,138,8,16,0,sr:competitor:4420,274,3

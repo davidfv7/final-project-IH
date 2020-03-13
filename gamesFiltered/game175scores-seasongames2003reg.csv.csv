@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,MIA,4809ecb0-abd3-451d-9c4a-92a90b83ca06,Miami,Dolphins,24,2457,3,sr:competitor:4287,home,0,1,5.6,1.0,1.0,7.0,45.0,57.0,25:50,2457.0,12.0,32.0,0.0,sr:competitor:4287,317.0,3.0
+1,1,WAS,22052ff7-c065-42ee-bc8f-c4691c50e624,Washington,Redskins,23,2473,0,sr:competitor:4432,away,3,2,4.1,1.0,1.0,5.0,38.0,68.0,34:10,2473.0,21.0,32.0,0.0,sr:competitor:4432,277.0,2.0

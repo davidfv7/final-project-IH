@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BAL,4.0,0,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,0,Baltimore,Ravens,10,72,66,32:01,2551,104,31,1,sr:competitor:4413,264,1
+2,OAK,2.7,5,1c1cec48-6352-4556-b789-35304c1a6ae1,3,Oakland,Raiders,6,45,59,27:59,2572,70,26,0,sr:competitor:4390,162,6

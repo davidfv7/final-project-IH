@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,MIN,8.9,0,33405046-04ee-4058-a950-d606f8c30852,0,Minnesota,Vikings,9,78,47,25:47,2492,18,24,0,sr:competitor:4423,416,0
+2,GB,5.9,1,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,4,25,78,34:13,2486,7,34,0,sr:competitor:4420,460,1

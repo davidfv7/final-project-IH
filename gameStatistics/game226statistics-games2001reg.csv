@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,JAC,6.4,2,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,2,Jacksonville,Jaguars,5,44,67,27:20,175,9,26,1,sr:competitor:4386,431,3
+2,KC,5.4,4,6680d28d-d4d2-49f6-aace-5292d3ec02c2,2,Kansas City,Chiefs,5,55,68,32:40,176,16,31,0,sr:competitor:4422,365,4

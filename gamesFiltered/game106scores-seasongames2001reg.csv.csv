@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,OAK,1c1cec48-6352-4556-b789-35304c1a6ae1,Oakland,Raiders,38,184,0,sr:competitor:4390,home,3,1,5.6,1.0,1.0,11.0,93.0,64.0,31:03,184.0,33.0,30.0,0.0,sr:competitor:4390,356.0,1.0
+1,1,DEN,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,Denver,Broncos,28,171,0,sr:competitor:4418,away,3,2,5.6,0.0,0.0,7.0,71.0,65.0,28:57,171.0,3.0,23.0,0.0,sr:competitor:4418,366.0,2.0

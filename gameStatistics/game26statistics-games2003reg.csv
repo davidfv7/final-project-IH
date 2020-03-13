@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ATL,4.6,0,e6aa13a4-0055-48a9-bc41-be28dc106929,0,Atlanta,Falcons,5,35,61,25:18,2442,80,22,0,sr:competitor:4393,283,2
+2,WAS,5.7,3,22052ff7-c065-42ee-bc8f-c4691c50e624,2,Washington,Redskins,12,79,76,34:42,2473,35,31,1,sr:competitor:4432,435,2

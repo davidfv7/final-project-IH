@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,PIT,7.3,4,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,1,Pittsburgh,Steelers,5,41,63,34:31,2574,173,42,0,sr:competitor:4345,457,1
+2,KC,3.6,0,6680d28d-d4d2-49f6-aace-5292d3ec02c2,0,Kansas City,Chiefs,6,50,59,25:29,2564,12,19,0,sr:competitor:4422,213,3

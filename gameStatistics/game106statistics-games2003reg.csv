@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,PIT,5.1,2,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,1,Pittsburgh,Steelers,5,37,48,20:00,2466,92,18,0,sr:competitor:4345,245,4
+2,STL,5.9,0,39f349de-6463-4803-ad70-f1e0f144f5ed,0,St. Louis,Rams,8,45,76,40:00,2470,20,37,0,,448,0

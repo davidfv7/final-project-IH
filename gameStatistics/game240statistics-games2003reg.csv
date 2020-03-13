@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,GB,6.3,0,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,4,29,58,29:12,2452,75,34,0,sr:competitor:4420,366,1
+2,DEN,3.5,1,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,1,Denver,Broncos,4,30,61,30:48,2450,37,34,0,sr:competitor:4418,216,3

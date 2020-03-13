@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,IND,6.5,0,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,0,Indianapolis,Colts,2,10,64,30:48,2596,2,37,0,sr:competitor:4421,419,0
+2,DEN,6.1,2,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,1,Denver,Broncos,4,32,58,29:12,2592,0,36,0,sr:competitor:4418,354,2

@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,NO,0d855753-ea21-4953-89f9-0e20aff9eb73,New Orleans,Saints,31,2461,2,sr:competitor:4425,home,1,1,5.2,0.0,0.0,9.0,78.0,56.0,32:13,2461.0,64.0,27.0,0.0,sr:competitor:4425,292.0,0.0
+1,1,HOU,82d2d380-3834-4938-835f-aec541e5ece7,Houston,Texans,10,2453,2,sr:competitor:4324,away,1,2,4.0,0.0,0.0,11.0,86.0,65.0,27:47,2453.0,32.0,24.0,0.0,sr:competitor:4324,258.0,2.0

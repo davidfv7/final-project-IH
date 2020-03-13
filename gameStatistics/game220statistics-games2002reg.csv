@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DEN,7.7,2,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,2,Denver,Broncos,3,25,63,30:30,1095,24,35,0,sr:competitor:4418,482,3
+2,KC,7.2,1,6680d28d-d4d2-49f6-aace-5292d3ec02c2,0,Kansas City,Chiefs,10,93,69,29:30,1100,18,26,0,sr:competitor:4422,494,0

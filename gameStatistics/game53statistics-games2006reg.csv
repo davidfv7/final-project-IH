@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ATL,6.3,0,e6aa13a4-0055-48a9-bc41-be28dc106929,0,Atlanta,Falcons,5,40,64,31:27,2550,82,40,0,sr:competitor:4393,405,1
+2,ARI,3.3,3,de760528-1dc0-416a-a978-b510d20692ff,2,Arizona,Cardinals,4,19,57,28:33,2549,121,24,0,sr:competitor:4412,187,4

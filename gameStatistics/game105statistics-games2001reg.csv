@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SF,5.9,3,f0e724b0-4cbf-495a-be47-013907608da9,1,San Francisco,49ers,6,83,72,38:33,189,25,35,0,sr:competitor:4389,427,3
+2,DET,2.7,0,c5a59daa-53a7-4de0-851f-fb12be893e9e,0,Detroit,Lions,8,62,49,21:27,172,74,21,0,sr:competitor:4419,131,0

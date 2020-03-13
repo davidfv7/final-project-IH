@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DEN,6.2,2,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,0,Denver,Broncos,8,114,59,27:17,2450,9,21,0,sr:competitor:4418,365,0
+2,CHI,3.2,1,7b112545-38e6-483c-a55c-96cf6ee49cb8,0,Chicago,Bears,6,29,68,32:43,2446,39,33,0,sr:competitor:4391,217,0

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,JAC,5.1,4,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,2,Jacksonville,Jaguars,15,119,47,21:55,2529,24,11,0,sr:competitor:4386,241,4
+2,DEN,4.2,0,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,0,Denver,Broncos,5,30,73,38:05,2524,84,44,0,sr:competitor:4418,306,0

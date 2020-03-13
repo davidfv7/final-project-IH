@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,PIT,5.4,3,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,3,Pittsburgh,Steelers,4,30,56,25:40,150,36,24,0,sr:competitor:4345,302,5
+2,JAC,6.0,1,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,1,Jacksonville,Jaguars,8,55,70,34:20,140,12,36,0,sr:competitor:4386,417,2

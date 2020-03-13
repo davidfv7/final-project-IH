@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TB,4.2,2,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,1,Tampa Bay,Buccaneers,1,5,61,29:16,2642,102,34,0,sr:competitor:4388,254,1
+2,NO,5.0,0,0d855753-ea21-4953-89f9-0e20aff9eb73,0,New Orleans,Saints,5,45,66,30:44,2633,-16,18,0,sr:competitor:4425,332,3

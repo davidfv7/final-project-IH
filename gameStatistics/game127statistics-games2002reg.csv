@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,HOU,4.5,0,82d2d380-3834-4938-835f-aec541e5ece7,0,Houston,Texans,8,60,59,28:38,1118,40,25,0,sr:competitor:4324,268,2
+2,CIN,6.3,0,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,0,Cincinnati,Bengals,9,100,62,31:22,1092,119,35,0,sr:competitor:4416,390,0

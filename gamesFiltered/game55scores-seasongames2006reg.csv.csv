@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,CIN,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,Cincinnati,Bengals,13,2555,2,sr:competitor:4416,home,1,1,5.0,2.0,2.0,9.0,74.0,56.0,26:04,2555.0,9.0,17.0,0.0,sr:competitor:4416,279.0,2.0
+1,1,NE,97354895-8c77-4fd4-a860-32e62ea7382a,New England,Patriots,38,2567,3,sr:competitor:4424,away,0,2,6.3,0.0,0.0,7.0,61.0,67.0,33:56,2567.0,55.0,41.0,0.0,sr:competitor:4424,424.0,1.0

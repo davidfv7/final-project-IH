@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,STL,5.1,0,39f349de-6463-4803-ad70-f1e0f144f5ed,0,St. Louis,Rams,5,35,68,30:34,2578,23,29,0,,349,1
+2,SF,5.7,1,f0e724b0-4cbf-495a-be47-013907608da9,1,San Francisco,49ers,5,34,56,29:26,2577,12,31,0,sr:competitor:4389,319,3

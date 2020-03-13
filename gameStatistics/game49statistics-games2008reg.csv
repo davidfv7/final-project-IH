@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NYJ,6.0,0,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,0,New York,Jets,4,61,62,29:00,2635,47,26,0,sr:competitor:4427,373,1
+2,ARI,6.1,5,de760528-1dc0-416a-a978-b510d20692ff,4,Arizona,Cardinals,11,71,77,31:00,2637,49,15,0,sr:competitor:4412,468,7

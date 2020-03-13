@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,OAK,5.9,1,1c1cec48-6352-4556-b789-35304c1a6ae1,0,Oakland,Raiders,13,85,56,29:14,2538,35,30,0,sr:competitor:4390,333,0
+2,DAL,4.8,0,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,0,Dallas,Cowboys,6,35,63,30:46,2523,0,32,0,sr:competitor:4392,303,1

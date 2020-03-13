@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,MIN,5.4,1,33405046-04ee-4058-a950-d606f8c30852,1,Minnesota,Vikings,8,63,76,36:32,2566,4,33,0,sr:competitor:4423,412,1
+2,ARI,7.1,5,de760528-1dc0-416a-a978-b510d20692ff,3,Arizona,Cardinals,8,64,58,23:28,2549,18,6,0,sr:competitor:4412,412,5

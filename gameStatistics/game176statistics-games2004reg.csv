@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,PHI,7.7,2,386bdbf9-9eea-4869-bb9a-274b0bc66e80,1,Philadelphia,Eagles,8,89,70,33:47,2499,77,21,0,sr:competitor:4428,542,1
+2,GB,4.0,2,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,12,99,63,26:13,2486,11,18,0,sr:competitor:4420,249,2

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NO,4.3,2,0d855753-ea21-4953-89f9-0e20aff9eb73,1,New Orleans,Saints,4,17,64,29:51,2535,64,25,0,sr:competitor:4425,273,1
+2,DET,5.1,0,c5a59daa-53a7-4de0-851f-fb12be893e9e,0,Detroit,Lions,11,65,55,30:09,2525,0,24,0,sr:competitor:4419,279,1

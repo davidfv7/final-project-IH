@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TB,4.1,2,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,0,Tampa Bay,Buccaneers,3,15,63,34:44,2471,73,35,0,sr:competitor:4388,261,0
+2,DAL,3.5,3,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,1,Dallas,Cowboys,1,5,51,25:16,2449,19,22,0,sr:competitor:4392,178,3

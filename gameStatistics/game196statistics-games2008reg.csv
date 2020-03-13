@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,GB,7.4,0,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,6,65,52,25:57,2624,13,20,0,sr:competitor:4420,387,1
+2,HOU,7.4,6,82d2d380-3834-4938-835f-aec541e5ece7,3,Houston,Texans,4,30,74,34:03,2649,20,31,0,sr:competitor:4324,549,4

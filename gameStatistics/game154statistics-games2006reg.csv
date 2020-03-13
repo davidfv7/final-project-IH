@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DAL,5.7,1,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,1,Dallas,Cowboys,7,53,60,33:42,2557,45,36,0,sr:competitor:4392,342,2
+2,IND,5.2,3,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,2,Indianapolis,Colts,5,35,64,26:18,2562,-5,23,0,sr:competitor:4421,335,4

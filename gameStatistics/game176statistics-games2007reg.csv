@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,MIN,6.7,0,33405046-04ee-4058-a950-d606f8c30852,0,Minnesota,Vikings,4,25,66,37:02,2600,10,39,0,sr:competitor:4423,443,1
+2,DET,5.5,5,c5a59daa-53a7-4de0-851f-fb12be893e9e,1,Detroit,Lions,6,48,46,22:58,2593,13,7,0,sr:competitor:4419,253,1

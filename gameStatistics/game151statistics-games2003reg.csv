@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CLE,7.1,1,d5a2eb42-8065-4174-ab79-0a6fa820e35e,0,Cleveland,Browns,7,64,68,39:33,2448,28,33,0,sr:competitor:4417,481,0
+2,ARI,4.1,2,de760528-1dc0-416a-a978-b510d20692ff,1,Arizona,Cardinals,9,55,46,20:27,2441,-1,13,0,sr:competitor:4412,187,4

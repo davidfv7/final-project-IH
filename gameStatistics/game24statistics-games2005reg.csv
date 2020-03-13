@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CAR,4.0,0,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,0,Carolina,Panthers,6,45,63,31:59,2519,128,36,0,sr:competitor:4415,250,1
+2,NE,4.6,2,97354895-8c77-4fd4-a860-32e62ea7382a,2,New England,Patriots,12,86,62,28:01,2533,24,16,0,sr:competitor:4424,288,3

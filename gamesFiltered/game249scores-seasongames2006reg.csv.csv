@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,KC,6680d28d-d4d2-49f6-aace-5292d3ec02c2,Kansas City,Chiefs,35,2564,1,sr:competitor:4422,home,2,1,5.8,2.0,1.0,5.0,32.0,68.0,30:38,2564.0,21.0,40.0,0.0,sr:competitor:4422,395.0,3.0
+1,1,JAC,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,Jacksonville,Jaguars,30,2563,1,sr:competitor:4386,away,2,2,6.1,0.0,0.0,5.0,35.0,65.0,29:22,2563.0,21.0,22.0,0.0,sr:competitor:4386,397.0,1.0

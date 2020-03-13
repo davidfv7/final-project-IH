@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,KC,4.8,2,6680d28d-d4d2-49f6-aace-5292d3ec02c2,2,Kansas City,Chiefs,9,55,74,35:10,2598,60,34,0,sr:competitor:4422,354,2
+2,CIN,5.7,1,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,1,Cincinnati,Bengals,6,59,65,24:50,2589,14,18,0,sr:competitor:4416,373,3

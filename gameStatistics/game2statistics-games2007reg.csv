@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,IND,7.7,1,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,1,Indianapolis,Colts,6,30,59,28:15,2596,123,29,0,sr:competitor:4421,452,1
+2,NO,4.3,2,0d855753-ea21-4953-89f9-0e20aff9eb73,1,New Orleans,Saints,4,20,68,31:45,2603,32,26,0,sr:competitor:4425,293,3

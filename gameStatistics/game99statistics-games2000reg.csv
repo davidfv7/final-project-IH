@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NYG,5.2,0,04aa1c9d-66da-489d-b16a-1dee3f2eec4d,0,New York,Giants,9,72,60,29:18,146,66,33,0,sr:competitor:4426,311,0
+2,DAL,3.8,0,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,0,Dallas,Cowboys,9,81,71,30:42,135,22,27,0,sr:competitor:4392,269,5

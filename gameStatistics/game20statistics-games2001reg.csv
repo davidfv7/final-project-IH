@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ARI,6.3,2,de760528-1dc0-416a-a978-b510d20692ff,2,Arizona,Cardinals,6,79,49,25:57,162,37,18,0,sr:competitor:4412,308,3
+2,DEN,5.5,2,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,0,Denver,Broncos,4,32,69,34:03,171,41,37,0,sr:competitor:4418,381,0

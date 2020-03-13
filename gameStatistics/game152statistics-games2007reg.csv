@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,GB,5.5,1,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,6,75,58,31:11,2594,105,27,0,sr:competitor:4420,317,0
+2,CAR,5.6,2,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,1,Carolina,Panthers,4,25,68,28:49,2587,0,29,0,sr:competitor:4415,382,3

@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,CHI,7b112545-38e6-483c-a55c-96cf6ee49cb8,Chicago,Bears,14,2618,0,sr:competitor:4391,home,3,1,3.9,0.0,0.0,3.0,20.0,63.0,26:44,2618.0,13.0,24.0,0.0,sr:competitor:4391,243.0,1.0
+1,1,TEN,d26a1ca5-722d-4274-8f97-c92e49c96315,Tennessee,Titans,21,2625,1,sr:competitor:367364,away,2,2,4.3,2.0,1.0,8.0,55.0,71.0,33:16,2625.0,56.0,29.0,0.0,sr:competitor:367364,304.0,1.0

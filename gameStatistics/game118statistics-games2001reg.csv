@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,IND,4.7,2,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,1,Indianapolis,Colts,5,25,61,31:00,174,31,25,0,sr:competitor:4421,289,3
+2,MIA,6.4,1,4809ecb0-abd3-451d-9c4a-92a90b83ca06,1,Miami,Dolphins,9,65,59,29:00,177,50,28,0,sr:competitor:4287,375,3

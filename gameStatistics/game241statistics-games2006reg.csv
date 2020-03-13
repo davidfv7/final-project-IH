@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BAL,5.0,1,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,0,Baltimore,Ravens,5,24,66,36:21,2551,88,30,0,sr:competitor:4413,327,1
+2,BUF,4.9,1,768c92aa-75ff-4a43-bcc0-f2798c2e1724,1,Buffalo,Bills,3,19,52,23:39,2552,0,14,0,sr:competitor:4376,253,3

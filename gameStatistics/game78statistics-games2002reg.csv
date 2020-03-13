@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TB,5.4,0,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,0,Tampa Bay,Buccaneers,5,45,70,33:34,1115,129,38,0,sr:competitor:4388,380,1
+2,CLE,3.2,0,d5a2eb42-8065-4174-ab79-0a6fa820e35e,0,Cleveland,Browns,8,66,60,26:26,1093,37,18,0,sr:competitor:4417,194,1

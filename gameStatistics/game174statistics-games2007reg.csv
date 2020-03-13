@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,STL,3.7,4,39f349de-6463-4803-ad70-f1e0f144f5ed,0,St. Louis,Rams,4,20,72,35:17,2612,64,31,1,,265,2
+2,SEA,4.9,2,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,1,Seattle,Seahawks,6,45,62,24:43,2610,64,19,0,sr:competitor:4430,302,2

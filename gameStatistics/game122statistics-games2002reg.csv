@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DET,2.6,0,c5a59daa-53a7-4de0-851f-fb12be893e9e,0,Detroit,Lions,6,50,57,25:27,1096,42,23,0,sr:competitor:4419,148,2
+2,DAL,3.1,3,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,2,Dallas,Cowboys,7,70,71,34:33,1094,71,27,0,sr:competitor:4392,221,2

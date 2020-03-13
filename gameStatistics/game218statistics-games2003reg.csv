@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,IND,7.3,2,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,2,Indianapolis,Colts,9,63,64,33:28,2454,2,31,0,sr:competitor:4421,465,2
+2,ATL,2.8,1,e6aa13a4-0055-48a9-bc41-be28dc106929,1,Atlanta,Falcons,6,80,55,26:32,2442,24,26,0,sr:competitor:4393,154,2

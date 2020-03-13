@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,STL,39f349de-6463-4803-ad70-f1e0f144f5ed,St. Louis,Rams,27,2578,0,,home,3,1,5.4,1.0,0.0,11.0,91.0,80.0,33:21,2578.0,1.0,22.0,0.0,,433.0,1.0
+1,1,CHI,7b112545-38e6-483c-a55c-96cf6ee49cb8,Chicago,Bears,42,2554,2,sr:competitor:4391,away,1,2,6.5,0.0,0.0,11.0,86.0,57.0,26:39,2554.0,21.0,34.0,0.0,sr:competitor:4391,372.0,0.0

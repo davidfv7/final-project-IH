@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,MIN,6.0,4,33405046-04ee-4058-a950-d606f8c30852,0,Minnesota,Vikings,5,30,78,38:51,2458,91,44,0,sr:competitor:4423,465,0
+2,SEA,4.9,1,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,1,Seattle,Seahawks,7,39,53,21:09,2468,0,16,0,sr:competitor:4430,258,3

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,MIN,5.0,5,33405046-04ee-4058-a950-d606f8c30852,3,Minnesota,Vikings,8,65,90,39:49,1102,74,39,0,sr:competitor:4423,449,3
+2,BUF,7.1,2,768c92aa-75ff-4a43-bcc0-f2798c2e1724,0,Buffalo,Bills,6,65,66,30:23,1089,16,14,0,sr:competitor:4376,468,0

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,MIN,5.2,0,33405046-04ee-4058-a950-d606f8c30852,0,Minnesota,Vikings,8,66,60,32:43,2492,73,27,0,sr:competitor:4423,313,0
+2,TEN,4.2,3,d26a1ca5-722d-4274-8f97-c92e49c96315,1,Tennessee,Titans,12,85,58,27:17,2506,12,14,0,sr:competitor:367364,243,4

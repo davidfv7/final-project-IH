@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,JAC,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,Jacksonville,Jaguars,20,1099,3,sr:competitor:4386,home,0,1,4.4,1.0,0.0,5.0,51.0,48.0,25:04,1099.0,34.0,31.0,0.0,sr:competitor:4386,211.0,0.0
+1,1,CLE,d5a2eb42-8065-4174-ab79-0a6fa820e35e,Cleveland,Browns,21,1093,0,sr:competitor:4417,away,3,2,5.9,0.0,0.0,10.0,68.0,71.0,34:56,1093.0,4.0,33.0,0.0,sr:competitor:4417,417.0,2.0

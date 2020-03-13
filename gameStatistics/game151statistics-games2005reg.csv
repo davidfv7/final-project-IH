@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NE,5.3,1,97354895-8c77-4fd4-a860-32e62ea7382a,1,New England,Patriots,5,50,62,27:03,2533,23,30,0,sr:competitor:4424,326,1
+2,NO,5.9,0,0d855753-ea21-4953-89f9-0e20aff9eb73,0,New Orleans,Saints,11,99,72,32:57,2535,28,21,0,sr:competitor:4425,425,1

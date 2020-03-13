@@ -1,0 +1,3 @@
+,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts
+0,DEN,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,Denver,Broncos,31,2450,1,sr:competitor:4418,home,2
+1,OAK,1c1cec48-6352-4556-b789-35304c1a6ae1,Oakland,Raiders,10,2464,2,sr:competitor:4390,away,1

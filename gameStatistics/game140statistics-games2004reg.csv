@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NYJ,4.8,1,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,0,New York,Jets,6,55,64,33:29,2497,21,36,0,sr:competitor:4427,305,1
+2,BAL,3.9,2,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,1,Baltimore,Ravens,5,39,68,33:56,2477,123,32,0,sr:competitor:4413,262,1

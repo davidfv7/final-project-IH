@@ -1,0 +1,3 @@
+,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts
+0,WAS,22052ff7-c065-42ee-bc8f-c4691c50e624,Washington,Redskins,22,2581,2,sr:competitor:4432,home,1
+1,DAL,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,Dallas,Cowboys,19,2557,1,sr:competitor:4392,away,2

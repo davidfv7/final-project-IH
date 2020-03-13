@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CAR,5.9,0,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,0,Carolina,Panthers,12,85,54,26:16,2479,86,27,0,sr:competitor:4415,317,1
+2,ARI,4.8,5,de760528-1dc0-416a-a978-b510d20692ff,1,Arizona,Cardinals,12,105,84,33:44,2475,53,28,0,sr:competitor:4412,399,4

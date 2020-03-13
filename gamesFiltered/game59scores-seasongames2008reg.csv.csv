@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,NO,0d855753-ea21-4953-89f9-0e20aff9eb73,New Orleans,Saints,31,2633,0,sr:competitor:4425,home,3,1,7.0,1.0,1.0,13.0,123.0,67.0,32:55,2633.0,38.0,32.0,0.0,sr:competitor:4425,467.0,2.0
+1,1,SF,f0e724b0-4cbf-495a-be47-013907608da9,San Francisco,49ers,17,2640,0,sr:competitor:4389,away,3,2,5.1,1.0,1.0,9.0,63.0,61.0,27:05,2640.0,0.0,19.0,0.0,sr:competitor:4389,312.0,3.0

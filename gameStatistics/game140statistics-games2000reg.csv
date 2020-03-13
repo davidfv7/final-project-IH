@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NYJ,6.5,1,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,1,New York,Jets,2,10,59,23:13,147,0,17,0,sr:competitor:4427,381,3
+2,DEN,6.0,0,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,0,Denver,Broncos,6,57,75,36:47,136,19,39,0,sr:competitor:4418,447,1

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,JAC,4.3,1,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,0,Jacksonville,Jaguars,5,30,57,28:46,2645,23,27,0,sr:competitor:4386,243,1
+2,BUF,5.3,1,768c92aa-75ff-4a43-bcc0-f2798c2e1724,1,Buffalo,Bills,4,40,54,31:14,2617,38,26,0,sr:competitor:4376,285,1

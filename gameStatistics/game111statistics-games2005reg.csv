@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CIN,5.0,1,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,0,Cincinnati,Bengals,3,58,63,30:11,2521,34,27,0,sr:competitor:4416,317,1
+2,GB,5.7,1,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,7,29,62,29:49,2526,39,22,0,sr:competitor:4420,353,5

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BAL,6.7,1,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,0,Baltimore,Ravens,7,71,65,31:32,2517,77,38,0,sr:competitor:4413,435,0
+2,GB,4.4,2,a20471b4-a8d9-40c7-95ad-90cc30e46932,2,Green Bay,Packers,10,94,66,28:28,2526,5,19,0,sr:competitor:4420,288,5

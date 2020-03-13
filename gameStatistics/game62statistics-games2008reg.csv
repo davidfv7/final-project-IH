@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ARI,4.9,0,de760528-1dc0-416a-a978-b510d20692ff,0,Arizona,Cardinals,4,20,76,36:16,2637,1,34,0,sr:competitor:4412,373,0
+2,BUF,6.2,3,768c92aa-75ff-4a43-bcc0-f2798c2e1724,3,Buffalo,Bills,6,36,46,23:44,2617,34,17,0,sr:competitor:4376,287,4

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SEA,7.5,2,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,0,Seattle,Seahawks,3,20,66,34:31,188,0,42,0,sr:competitor:4430,497,0
+2,OAK,5.8,3,1c1cec48-6352-4556-b789-35304c1a6ae1,1,Oakland,Raiders,5,25,58,25:29,184,0,18,0,sr:competitor:4390,338,1

@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,TEN,d26a1ca5-722d-4274-8f97-c92e49c96315,Tennessee,Titans,14,2580,3,sr:competitor:367364,home,0,1,3.9,4.0,1.0,5.0,55.0,58.0,27:26,2580.0,0.0,27.0,0.0,sr:competitor:367364,229.0,3.0
+1,1,DAL,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,Dallas,Cowboys,45,2557,3,sr:competitor:4392,away,0,2,6.5,0.0,0.0,5.0,61.0,61.0,32:34,2557.0,43.0,41.0,0.0,sr:competitor:4392,396.0,1.0

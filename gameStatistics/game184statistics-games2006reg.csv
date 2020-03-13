@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DEN,5.2,5,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,3,Denver,Broncos,3,25,58,29:29,2558,6,34,0,sr:competitor:4418,302,5
+2,SEA,4.5,0,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,0,Seattle,Seahawks,10,80,60,30:31,2576,81,31,0,sr:competitor:4430,270,1

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CAR,4.5,0,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,0,Carolina,Panthers,7,65,72,38:22,2587,89,44,0,sr:competitor:4415,323,2
+2,SF,3.8,4,f0e724b0-4cbf-495a-be47-013907608da9,2,San Francisco,49ers,7,55,52,21:38,2611,45,17,0,sr:competitor:4389,195,6

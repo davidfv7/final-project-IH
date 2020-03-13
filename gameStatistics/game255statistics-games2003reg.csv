@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,WAS,4.6,2,22052ff7-c065-42ee-bc8f-c4691c50e624,1,Washington,Redskins,9,78,57,28:38,2473,1,18,0,sr:competitor:4432,260,2
+2,PHI,5.6,0,386bdbf9-9eea-4869-bb9a-274b0bc66e80,0,Philadelphia,Eagles,7,48,59,31:22,2465,3,25,0,sr:competitor:4428,332,0

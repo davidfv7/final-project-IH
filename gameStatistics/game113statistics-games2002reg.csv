@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NE,3.4,1,97354895-8c77-4fd4-a860-32e62ea7382a,0,New England,Patriots,8,83,53,24:20,1103,40,19,0,sr:competitor:4424,179,0
+2,DEN,5.4,2,ce92bd47-93d5-4fe9-ada4-0fc681e6caa0,1,Denver,Broncos,2,51,65,35:40,1095,1,40,0,sr:competitor:4418,351,2

@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,MIA,4.2,3,4809ecb0-abd3-451d-9c4a-92a90b83ca06,2,Miami,Dolphins,7,61,59,27:55,2599,0,26,0,sr:competitor:4287,245,2
+2,NYG,4.0,3,04aa1c9d-66da-489d-b16a-1dee3f2eec4d,1,New York,Giants,7,60,60,32:05,2604,35,37,0,sr:competitor:4426,238,1

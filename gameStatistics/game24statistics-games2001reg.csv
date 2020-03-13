@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CLE,4.3,0,d5a2eb42-8065-4174-ab79-0a6fa820e35e,0,Cleveland,Browns,9,50,60,31:17,169,93,37,0,sr:competitor:4417,257,2
+2,DET,4.2,1,c5a59daa-53a7-4de0-851f-fb12be893e9e,0,Detroit,Lions,15,115,65,28:43,172,34,20,0,sr:competitor:4419,271,7

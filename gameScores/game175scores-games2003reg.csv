@@ -1,0 +1,3 @@
+,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts
+0,MIA,4809ecb0-abd3-451d-9c4a-92a90b83ca06,Miami,Dolphins,24,2457,3,sr:competitor:4287,home,0
+1,WAS,22052ff7-c065-42ee-bc8f-c4691c50e624,Washington,Redskins,23,2473,0,sr:competitor:4432,away,3

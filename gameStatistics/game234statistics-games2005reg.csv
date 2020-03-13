@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SEA,6.3,0,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,0,Seattle,Seahawks,5,30,53,26:23,2542,0,30,0,sr:competitor:4430,332,0
+2,IND,5.7,1,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,1,Indianapolis,Colts,4,30,68,33:37,2528,50,23,0,sr:competitor:4421,387,1

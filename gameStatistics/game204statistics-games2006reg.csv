@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ARI,5.1,0,de760528-1dc0-416a-a978-b510d20692ff,0,Arizona,Cardinals,9,77,67,34:39,2549,58,33,0,sr:competitor:4412,345,1
+2,SEA,5.8,4,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,3,Seattle,Seahawks,6,40,60,25:21,2576,5,29,0,sr:competitor:4430,348,3

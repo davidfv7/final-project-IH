@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DAL,5.8,3,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,2,Dallas,Cowboys,5,50,61,26:13,2449,0,16,0,sr:competitor:4392,354,5
+2,MIA,5.6,2,4809ecb0-abd3-451d-9c4a-92a90b83ca06,1,Miami,Dolphins,6,69,65,33:47,2457,99,45,0,sr:competitor:4287,365,1

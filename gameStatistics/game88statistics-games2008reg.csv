@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,GB,4.8,3,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,9,70,63,33:46,2624,187,35,0,sr:competitor:4420,302,0
+2,IND,4.6,1,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,0,Indianapolis,Colts,12,110,65,26:14,2626,0,23,0,sr:competitor:4421,302,2

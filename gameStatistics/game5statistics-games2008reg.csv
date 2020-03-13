@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,NYG,5.1,1,04aa1c9d-66da-489d-b16a-1dee3f2eec4d,0,New York,Giants,7,70,69,35:43,2634,21,32,0,sr:competitor:4426,354,1
+2,WAS,4.0,0,22052ff7-c065-42ee-bc8f-c4691c50e624,0,Washington,Redskins,7,35,52,24:17,2643,-2,24,0,sr:competitor:4432,209,0

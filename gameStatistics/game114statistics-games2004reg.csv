@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TEN,5.0,1,d26a1ca5-722d-4274-8f97-c92e49c96315,0,Tennessee,Titans,7,58,71,36:35,2506,19,37,0,sr:competitor:367364,358,1
+2,CIN,4.8,1,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,1,Cincinnati,Bengals,10,64,57,23:25,2481,51,17,0,sr:competitor:4416,274,2

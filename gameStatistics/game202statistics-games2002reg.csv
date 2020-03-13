@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,JAC,4.4,1,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,0,Jacksonville,Jaguars,5,51,48,25:04,1099,34,31,0,sr:competitor:4386,211,0
+2,CLE,5.9,0,d5a2eb42-8065-4174-ab79-0a6fa820e35e,0,Cleveland,Browns,10,68,71,34:56,1093,4,33,0,sr:competitor:4417,417,2

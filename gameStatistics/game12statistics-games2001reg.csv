@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,3.9,2,9dbb9060-ba0f-4920-829e-16d4d9246b5d,2,San Diego,Chargers,5,49,65,36:34,187,114,46,0,,255,4
+2,WAS,3.1,7,22052ff7-c065-42ee-bc8f-c4691c50e624,2,Washington,Redskins,6,69,52,23:26,193,5,19,0,sr:competitor:4432,161,4

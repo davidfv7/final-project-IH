@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,NO,0d855753-ea21-4953-89f9-0e20aff9eb73,New Orleans,Saints,22,2603,0,sr:competitor:4425,home,3,1,5.5,0.0,0.0,6.0,49.0,56.0,24:33,2603.0,55.0,22.0,0.0,sr:competitor:4425,310.0,1.0
+1,1,ATL,e6aa13a4-0055-48a9-bc41-be28dc106929,Atlanta,Falcons,16,2584,0,sr:competitor:4393,away,3,2,4.9,3.0,0.0,9.0,52.0,68.0,35:27,2584.0,39.0,24.0,0.0,sr:competitor:4393,334.0,0.0

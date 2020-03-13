@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BUF,5.6,1,768c92aa-75ff-4a43-bcc0-f2798c2e1724,0,Buffalo,Bills,8,60,69,35:59,130,31,33,0,sr:competitor:4376,385,0
+2,IND,5.1,0,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,0,Indianapolis,Colts,3,20,52,24:01,139,14,24,0,sr:competitor:4421,265,1

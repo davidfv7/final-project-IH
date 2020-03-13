@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DAL,5.3,1,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,0,Dallas,Cowboys,2,10,65,37:52,2591,76,34,0,sr:competitor:4392,344,1
+2,NYJ,3.5,2,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,1,New York,Jets,4,30,51,22:08,2605,30,21,0,sr:competitor:4427,180,2

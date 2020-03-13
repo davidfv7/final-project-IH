@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,IND,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,Indianapolis,Colts,38,2596,1,sr:competitor:4421,home,2,1,6.4,1.0,1.0,5.0,40.0,72.0,35:45,2596.0,35.0,31.0,0.0,sr:competitor:4421,458.0,1.0
+1,1,HOU,82d2d380-3834-4938-835f-aec541e5ece7,Houston,Texans,15,2595,3,sr:competitor:4324,away,0,2,5.4,0.0,0.0,6.0,55.0,55.0,24:15,2595.0,12.0,19.0,0.0,sr:competitor:4324,299.0,3.0

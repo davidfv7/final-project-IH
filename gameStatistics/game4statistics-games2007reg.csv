@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,3.7,2,9dbb9060-ba0f-4920-829e-16d4d9246b5d,1,San Diego,Chargers,3,20,71,37:03,2609,1,36,0,,263,2
+2,CHI,3.9,4,7b112545-38e6-483c-a55c-96cf6ee49cb8,3,Chicago,Bears,4,38,52,22:57,2588,27,26,0,sr:competitor:4391,202,4

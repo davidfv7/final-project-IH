@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,TEN,5.3,1,d26a1ca5-722d-4274-8f97-c92e49c96315,0,Tennessee,Titans,4,45,61,29:09,2625,138,31,0,sr:competitor:367364,322,0
+2,PIT,5.4,5,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,2,Pittsburgh,Steelers,3,17,69,30:51,2638,2,25,0,sr:competitor:4345,374,4

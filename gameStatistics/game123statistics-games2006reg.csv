@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,BAL,5.4,1,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,0,Baltimore,Ravens,8,81,69,37:24,2551,88,38,0,sr:competitor:4413,374,0
+2,CIN,5.5,2,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,1,Cincinnati,Bengals,4,40,50,22:36,2555,27,22,0,sr:competitor:4416,275,3

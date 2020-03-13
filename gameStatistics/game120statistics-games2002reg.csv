@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,4.8,2,9dbb9060-ba0f-4920-829e-16d4d9246b5d,1,San Diego,Chargers,8,55,51,22:54,1111,13,14,0,,243,3
+2,NYJ,6.0,0,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,0,New York,Jets,6,65,69,37:06,1107,167,30,0,sr:competitor:4427,413,0

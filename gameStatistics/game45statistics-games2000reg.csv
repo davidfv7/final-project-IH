@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,4.6,3,9dbb9060-ba0f-4920-829e-16d4d9246b5d,0,San Diego,Chargers,9,71,66,33:16,151,9,24,0,,303,2
+2,SEA,5.3,2,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,2,Seattle,Seahawks,5,45,51,26:44,152,113,25,0,sr:competitor:4430,269,2

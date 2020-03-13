@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,STL,6.8,3,39f349de-6463-4803-ad70-f1e0f144f5ed,2,St. Louis,Rams,7,52,63,31:25,154,14,16,0,,426,2
+2,CAR,5.0,1,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,1,Carolina,Panthers,5,40,54,28:35,131,9,24,0,sr:competitor:4415,268,2

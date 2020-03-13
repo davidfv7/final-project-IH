@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,CAR,3.3,3,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,2,Carolina,Panthers,4,40,77,36:50,1090,58,39,0,sr:competitor:4415,253,2
+2,CHI,3.3,4,7b112545-38e6-483c-a55c-96cf6ee49cb8,4,Chicago,Bears,3,32,56,23:10,1091,44,22,0,sr:competitor:4391,186,4

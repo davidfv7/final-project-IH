@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,PIT,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,Pittsburgh,Steelers,31,2638,2,sr:competitor:4345,home,1,1,6.0,1.0,0.0,8.0,65.0,62.0,33:20,2638.0,66.0,35.0,0.0,sr:competitor:4345,369.0,1.0
+1,1,CLE,d5a2eb42-8065-4174-ab79-0a6fa820e35e,Cleveland,Browns,0,2646,3,sr:competitor:4417,away,0,2,2.5,1.0,0.0,6.0,47.0,50.0,26:40,2646.0,9.0,29.0,0.0,sr:competitor:4417,126.0,2.0

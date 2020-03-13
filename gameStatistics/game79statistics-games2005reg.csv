@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,DET,3.6,4,c5a59daa-53a7-4de0-851f-fb12be893e9e,3,Detroit,Lions,10,75,58,32:03,2525,101,24,0,sr:competitor:4419,209,4
+2,CAR,5.4,3,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,1,Carolina,Panthers,10,73,59,27:57,2519,41,25,0,sr:competitor:4415,317,4

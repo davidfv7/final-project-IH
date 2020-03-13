@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,GB,5.1,0,a20471b4-a8d9-40c7-95ad-90cc30e46932,0,Green Bay,Packers,9,71,53,28:49,1097,101,23,0,sr:competitor:4420,270,1
+2,MIA,4.0,3,4809ecb0-abd3-451d-9c4a-92a90b83ca06,2,Miami,Dolphins,6,55,77,31:11,1101,5,30,0,sr:competitor:4287,306,4

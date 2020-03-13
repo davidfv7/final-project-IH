@@ -1,0 +1,3 @@
+,Unnamed: 0,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts,index,avg_gain,fumbles,lost_fumbles,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,0,DAL,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,Dallas,Cowboys,31,2557,0,sr:competitor:4392,home,3,1,6.4,5.0,3.0,4.0,45.0,57.0,27:53,2557.0,77.0,21.0,0.0,sr:competitor:4392,365.0,4.0
+1,1,DET,c5a59daa-53a7-4de0-851f-fb12be893e9e,Detroit,Lions,39,2559,2,sr:competitor:4419,away,1,2,5.0,0.0,0.0,7.0,65.0,72.0,32:07,2559.0,89.0,25.0,0.0,sr:competitor:4419,362.0,1.0

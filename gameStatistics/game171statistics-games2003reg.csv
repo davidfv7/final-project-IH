@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,ATL,5.2,2,e6aa13a4-0055-48a9-bc41-be28dc106929,1,Atlanta,Falcons,5,40,54,27:05,2442,58,20,0,sr:competitor:4393,282,2
+2,TEN,5.6,2,d26a1ca5-722d-4274-8f97-c92e49c96315,1,Tennessee,Titans,9,62,62,32:55,2472,69,35,0,sr:competitor:367364,347,1

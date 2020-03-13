@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,HOU,4.4,2,82d2d380-3834-4938-835f-aec541e5ece7,0,Houston,Texans,5,53,54,30:29,2453,67,31,0,sr:competitor:4324,236,1
+2,ATL,3.8,1,e6aa13a4-0055-48a9-bc41-be28dc106929,0,Atlanta,Falcons,6,49,64,29:31,2442,52,24,0,sr:competitor:4393,243,1

@@ -1,0 +1,3 @@
+,alias,id,market,name,points,reference,remaining_timeouts,sr_id,team,used_timeouts
+0,SD,9dbb9060-ba0f-4920-829e-16d4d9246b5d,San Diego,Chargers,27,2467,0,,home,3
+1,CIN,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,Cincinnati,Bengals,34,2447,2,sr:competitor:4416,away,1

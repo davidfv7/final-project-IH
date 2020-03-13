@@ -1,0 +1,4 @@
+,alias,avg_gain,fumbles,id,lost_fumbles,market,name,penalties,penalty_yards,play_count,possession_time,reference,return_yards,rush_plays,safeties,sr_id,total_yards,turnovers
+0,,,,,,,,,,,,,,,,,,
+1,SD,7.0,1,9dbb9060-ba0f-4920-829e-16d4d9246b5d,1,San Diego,Chargers,7,46,64,35:30,2501,79,38,0,,448,1
+2,OAK,5.5,1,1c1cec48-6352-4556-b789-35304c1a6ae1,1,Oakland,Raiders,10,75,51,24:30,2498,18,11,0,sr:competitor:4390,281,3
